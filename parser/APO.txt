@@ -1,0 +1,16 @@
+ASPCA,http://www.petfinder.com/shelters/NY29.html,http://www.facebook.com/aspca,https://twitter.com/ASPCA,http://www.youtube.com/aspca,http://pinterest.com/ASPCA/,http://instagram.com/aspca
+Animal Haven,http://www.petfinder.com/shelters/NY17.html,http://www.facebook.com/AnimalHavenShelter,https://twitter.com/AnimalHaven,http://www.youtube.com/user/animalhaven,http://pinterest.com/animalhavenny/,http://instagram.com/animalhaven
+Brooklyn Animal Resource Coalition (BARC),http://www.petfinder.com/shelters/NY10.html,http://www.facebook.com/BarcShelter,https://twitter.com/BARCanimals,http://pinterest.com/bbanimals/,http://instagram.com/barcshelter
+City Critters, Inc.,http://www.petfinder.com/shelters/NY114.html,http://www.facebook.com/CityCritters,https://twitter.com/citycritters
+The Humane Society of New York,http://www.petfinder.com/shelters/NY541.html,https://www.facebook.com/HumaneSocietyNY,http://www.facebook.com/pages/Humane-Society-of-New-York/84437813405,https://twitter.com/HumaneSocietyNY,http://www.youtube.com/HumaneSocietyofNY,http://pinterest.com/humanesocietyny/,http://instagram.com/humanesocietyny
+2000 Spays and Neuters,http://www.petfinder.com/shelters/NY768.html,https://www.facebook.com/2000spaysandneuters.org
+Abandoned Angels Cocker Spaniel Rescue,http://www.petfinder.com/shelters/NY408.html,http://www.facebook.com/AbandonedAngels,https://twitter.com/NYCockerRescue,http://pinterest.com/abandonedangels/,http://instagram.com/abandonedangels
+Adopt A Boxer Rescue,http://www.petfinder.com/shelters/NY529.html,http://www.facebook.com/adoptaboxerrescue,https://twitter.com/Adopt_A_Boxer,http://www.youtube.com/AdoptABoxerRescue,http://instagram.com/adoptaboxerrescue
+Adopt-A-Dog,http://www.petfinder.com/shelters/CT116.html,http://www.facebook.com/adoptadoginc,https://twitter.com/AdoptADogInc,http://pinterest.com/AdoptADogInc/
+All About Spay Neuter,http://www.petfinder.com/shelters/NY520.html,https://www.facebook.com/pages/All-About-Spay-Neuter-Inc/113608928803667,https://twitter.com/AllAboutSpayNeu,http://instagram.com/allaboutspayneuter
+All Sentient Beings,http://www.petfinder.com/shelters/NY873.html,http://www.facebook.com/pages/All-Sentient-Beings/335450656603375,https://twitter.com/AllSentientB ,http://www.youtube.com/wellbeings77
+Almost Home Animal Rescue & Adoption,http://www.petfinder.com/shelters/NY739.html,https://www.facebook.com/AlmostHomeAnimalRescueAndAdoption,https://twitter.com/almosthomeli
+American Bulldog Rescue,http://www.petfinder.com/shelters/NY276.html,http://www.facebook.com/pages/American-Bulldog-Rescue/244035677481,https://twitter.com/AmerBulldogResQ,http://pinterest.com/ABResQ/
+ASPCA,http://www.petfinder.com/shelters/NY29.html,http://www.facebook.com/aspca,https://twitter.com/ASPCA,http://www.youtube.com/aspca,http://pinterest.com/ASPCA/,http://instagram.com/aspca
+Anarchy Animal Rescue,http://www.petfinder.com/shelters/NY1023.html,http://www.facebook.com/AnarchyAnimalRescue,https://twitter.com/franaar,http://www.youtube.com/channel/UCRVyxVl8l5V_QIfB2ad5eJQ,http://pinterest.com/frangrimaldi/,http://instagram.com/anarchyanimalrescue
+Angela's Felines
