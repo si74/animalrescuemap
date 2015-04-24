@@ -1,8 +1,50 @@
 <html>
 <head>
+<script src="js/settings.js"></script>
+<script src="js/jquery-1.11.2.js"></script>
 <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
 </head>
 <body>
+<script>
+
+function setMap(){
+	$('body').append("<div id='map'></div>");
+	L.mapbox.accessToken = access_token_official;
+	var map = L.mapbox.map('map', 'si74.la690i93')
+	  	.setView([40.7470, -73.9860],13)
+}
+
+function setList(){
+	$("#map").remove();
+}
+
+</script>
+<div style="z-index:999;
+			position:absolute;
+			right:10px;
+			margin:5px;
+			padding:10px;
+			background-color:#000;
+			color:#fff;
+			opacity:0.8;">Rescue NYC</div>
+<table style="width:3em;
+			 z-index:999;
+			 background-color:#000;
+			 color:#fff;
+			 right:45px;
+			 top:40px;
+			 position:absolute;
+			 margin:5px;
+			 padding:10px;">
+	<tr>
+		<td><button onclick="setMap();">MAP</button></td>
+		<td><button onclick="setList();">LIST</button></td>
+	</tr>
+</table>
 </body>
 </html>
