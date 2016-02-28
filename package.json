@@ -1,0 +1,11 @@
+{
+  "name": "animal-rescue-map",
+  "description": "interactive animal rescue map",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.1",
+    "mongoose": "^4.4.5"
+  }
+}
